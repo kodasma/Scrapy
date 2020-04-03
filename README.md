@@ -5,7 +5,7 @@ Koostas: Kevin Kodasma
 
 ## Sisukord
 
-1. Veebi kraapimine
+1. [Veebi kraapimine](https://github.com/kodasma/Scrapy/wiki/1.-Veebi-kraapimine)
 
 1. Scrapy
 
