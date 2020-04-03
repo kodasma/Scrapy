@@ -3,26 +3,26 @@ Antud õppematerjal on koostatud Tallinna Ülikooli informaatika eriala bakalaur
 
 Koostas: Kevin Kodasma
 
-# Sisukord
+## Sisukord
 
-Veebi kraapimine
+1. Veebi kraapimine
 
-Scrapy
+1. Scrapy
 
-Robots.txt
+1. Robots.txt
 
-Pycharmi installimine
+1. Pycharmi installimine
 
-Kraapija loomine
+1. Kraapija loomine
 
-Andmete salvestamine
+1. Andmete salvestamine
 
-Mitmelt lehelt kraapimine
+1. Mitmelt lehelt kraapimine
 
-Lehele sisselogimine
+1. Lehele sisselogimine
 
-Tervikliku programmi loomine Amazonist kraapimiseks
+1. Tervikliku programmi loomine Amazonist kraapimiseks
 
-User-Agent
+1. User-Agent
 
-Proxies
+1. Proxies
