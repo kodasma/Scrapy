@@ -1,1 +1,1 @@
-# Scrapy
+# Pythoni veebiraamistik Scrapy. Õppematerjal.
